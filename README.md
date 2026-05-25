@@ -91,13 +91,7 @@ http://localhost:5173
 
 ✅ Component-based clean structure
 
-🌐 Deployment
 
-The application is deployed using Vercel.
-
-Live URL:
-
-https://book-management-system-qn7x98fjs-sweetylingas-projects.vercel.app
 
 👩‍💻 Author
 
