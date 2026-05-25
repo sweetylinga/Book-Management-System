@@ -1,8 +1,12 @@
 # 📚 Book Management System
 
-A React-based Book Management System that allows users to manage books with full CRUD operations using MockAPI integration.
+A React-based Book Management System that allows users to manage books with complete CRUD operations using MockAPI integration.
 
-## Features
+## 🚀 Live Demo
+
+Live URL: https://book-management-system-qn7x98fjs-sweetylingas-projects.vercel.app
+
+## 📌 Features
 
 - View all books
 - Add new books
@@ -10,18 +14,21 @@ A React-based Book Management System that allows users to manage books with full
 - Delete books
 - Search books by title or author
 - Filter books by genre
+- API integration with MockAPI
+- Loading state handling
+- Basic error handling
 - Responsive and clean UI
-- API integration using MockAPI
-- Loading state and basic error handling
+- Component-based architecture
 
-## Tech Stack
+## 🛠️ Tech Stack
 
 - React (Vite)
+- JavaScript (ES6+)
 - Axios
 - MockAPI
-- CSS
+- CSS3
 
-## Folder Structure
+## 📂 Folder Structure
 
 ```txt
 src/
@@ -39,40 +46,60 @@ src/
 │── App.jsx
 │── main.jsx
 
-API Integration
 
-This project uses MockAPI to perform CRUD operations:
 
-GET → Fetch books
-POST → Add books
-PUT → Update books
-DELETE → Remove books
 
-Setup Instructions
-Clone repository
+
+
+🔗 API Integration
+
+This application uses MockAPI to perform CRUD operations.
+
+API Operations
+GET → Fetch all books
+POST → Add a new book
+PUT → Update an existing book
+DELETE → Remove a book
+⚙️ Installation & Setup
+1. Clone Repository
 git clone https://github.com/sweetylinga/Book-Management-System.git
-
-Navigate to project
-
+2. Navigate to Project Directory
 cd Book-Management-System
-
-Install dependencies
-
+3. Install Dependencies
 npm install
-
-Run project
-
+4. Start Development Server
 npm run dev
-
-Open in browser:
-
+5. Open in Browser
 http://localhost:5173
+📷 Functionalities Implemented
 
-Live Demo
+✅ View books list
 
-Deployed on Vercel (URL will be added after deployment)
+✅ Add new books
 
+✅ Update/Edit books
 
-Author
+✅ Delete books
+
+✅ Search books by title or author
+
+✅ Filter books by genre
+
+✅ API integration using MockAPI
+
+✅ Loading and error handling
+
+✅ Component-based clean structure
+
+🌐 Deployment
+
+The application is deployed using Vercel.
+
+Live URL:
+
+https://book-management-system-qn7x98fjs-sweetylingas-projects.vercel.app
+
+👩‍💻 Author
 
 Linga Srilaxmi
+
